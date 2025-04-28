@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shop-credit-tracker/static/css/main.4a50905e.css",
+    "main.js": "/shop-credit-tracker/static/js/main.3552b6ba.js",
+    "static/js/453.f2342be2.chunk.js": "/shop-credit-tracker/static/js/453.f2342be2.chunk.js",
+    "index.html": "/shop-credit-tracker/index.html",
+    "main.4a50905e.css.map": "/shop-credit-tracker/static/css/main.4a50905e.css.map",
+    "main.3552b6ba.js.map": "/shop-credit-tracker/static/js/main.3552b6ba.js.map",
+    "453.f2342be2.chunk.js.map": "/shop-credit-tracker/static/js/453.f2342be2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a50905e.css",
+    "static/js/main.3552b6ba.js"
+  ]
+}
